@@ -18,6 +18,6 @@ Outside of work, I recharge with football and I also love getting educated on di
 ## Links
 * web: [Portfolio](https://codenino.github.io/PortfolioWebsite/)
 
-* [!Linkedin](https://www.linkedin.com/in/samuelfadunsin)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfadunsin)
 
-* [!Twitter](https://twitter.com/nino_of_akoraye)
+* [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nino_of_akoraye)

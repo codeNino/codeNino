@@ -16,8 +16,8 @@ I recently took a dive into open source projects on the side with my first Go pa
 Outside of work, I recharge with football and I also love getting educated on diverse subject matters, putting my nose into all that space stuff, and more importantly investing time with family and friends.
 
 ## Links
-* :web: [Portfolio](https://codenino.github.io/PortfolioWebsite/)
+* web: [Portfolio](https://codenino.github.io/PortfolioWebsite/)
 
-* [Linkedin](https://www.linkedin.com/in/samuelfadunsin)
+* [![Linkedin]](https://www.linkedin.com/in/samuelfadunsin)
 
-* [Twitter](https://twitter.com/nino_of_akoraye)
+* [![Twitter]](https://twitter.com/nino_of_akoraye)

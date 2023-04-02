@@ -16,7 +16,7 @@ I recently took a dive into open source projects on the side with my first Go pa
 Outside of work, I recharge with football and I also love getting educated on diverse subject matters, putting my nose into all that space stuff, and more importantly investing time with family and friends.
 
 ## Links
-* web: [Portfolio](https://codenino.github.io/PortfolioWebsite/)
+* :globe_with_meridians: [Portfolio](https://codenino.github.io/PortfolioWebsite/)
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfadunsin)
 

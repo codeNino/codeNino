@@ -1,4 +1,15 @@
-### Hi there 👋
+<h3 align="center">
+  Samuel Fadunsin!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/codeNino/codeNino"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+Backend+Developer;Data Scientist;Machine Learning Developer;Community+Builder;Mentor;"></a>
+</p>
+
+---
+
+
+### 💫About Me :
 
 I’m Samuel, a Software Engineer and Data Scientist currently living and working in Nigeria. I'm driven by an ambition to build really useful products and so I love working on impactful projects especially when it involves leveraging AI to deliver cutting edge solutions to people and businesses.
 

@@ -1,7 +1,7 @@
 <h3 align="center">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Welcome to my Github Page 
+  Welcome to my Github Page :nerd_face:
 </h3>
 
 ---

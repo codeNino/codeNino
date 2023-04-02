@@ -2,7 +2,6 @@
   Samuel Fadunsin
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<p class="intro-subtitle"><span class="text-slider-items">Backend Developer, Data Scientist, Machine Learning Developer, Community Builder, Mentor</span><strong class="text-slider"></strong></p>
 
 ---
 

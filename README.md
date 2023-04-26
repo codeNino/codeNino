@@ -9,9 +9,9 @@
 
 ### 💫About Me :
 
-I’m Samuel, a Software Engineer and Data Scientist currently living and working in Nigeria. I'm driven by an ambition to build really useful products and so I love working on impactful projects especially when it involves leveraging AI to deliver cutting edge solutions to people and businesses.
+I’m Samuel, a Software Engineer, Data Scientist and occassional Product Manager currently living in Nigeria. I'm driven by an ambition to build really useful products and so I love working on impactful projects especially when it involves leveraging AI to deliver cutting edge solutions to people and businesses.
 
-As a Backend Engineer, I excel as a technical ideator and love to think about scalable design patterns and systems architecture. In other words, I build according to design. Since January 2023, I’ve been working again as a freelancer and currently building a telemedicine platform for a prospective Healthtech start-up in Nigeria where I am taking ownership of the product Systems including the development and deployment of the complete backend infrastructure written mostly in Go (Golang).
+As a Backend Engineer, I excel as a technical ideator and love to think about scalable design patterns and systems architecture. In other words, I build according to design. Since January 2023, I’ve been freelancing again (while trying to also contribute to open-source) and currently building a telemedicine and epharmacy platform with  a start-up potential where I am taking ownership of the product Systems including the development and deployment of the complete backend infrastructure written mostly in Go (Golang).
 
 
 Prior to this, I was at [Glodaris Technologies](https://www.glodaris.com/) where I spent 1 year building a Microservices based Facial Recognition driven security solution for one of the business' clients with Python, FastAPI and some cloud-native techs.
